@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(4, 48, 48)  ;
+    background-image: url(gradimg.jpg);
+}
+.content{
+    color: aqua ;
+    
+    padding: 100px;
+    text-align: center;
+    
+    
+}
+#norm
+{
+font-size: 30px;
+}
